@@ -1,0 +1,1 @@
+In this Activity 2, I created a web application having information about the two campuses of university of nebraska at omaha and a contact page that is directly linking to the official site. 
